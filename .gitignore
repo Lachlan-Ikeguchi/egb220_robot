@@ -1,2 +1,4 @@
 pcb/egb220_robot_pcb-backups/
-.pio
+code/.pio
+code/.cache
+code/compile_commands.json
